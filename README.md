@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DaniloMRosado
-- 👀 I’m interested in Java☕ | Spring🍃 | Backend Development📦
+- 👀 I’m interested in   Java☕      Spring🍃      Backend Development📦
 - 📫 How to reach me danilomrosado@gmail.com
 
 <!---
